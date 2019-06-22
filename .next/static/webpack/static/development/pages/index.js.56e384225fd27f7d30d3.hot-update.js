@@ -27,7 +27,14 @@ var Index = function Index() {
       lineNumber: 3
     },
     __self: this
-  }, "SRR Magician"));
+  }, "SRR Magician"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/about",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, "About"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
@@ -35,4 +42,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.541749633b4557b6179c.hot-update.js.map
+//# sourceMappingURL=index.js.56e384225fd27f7d30d3.hot-update.js.map
