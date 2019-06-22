@@ -4,7 +4,7 @@ webpackHotUpdate("static\\development\\pages\\index.js",{
 /*!************************!*\
   !*** ./pages/index.js ***!
   \************************/
-/*! no exports provided */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27,10 +27,19 @@ var Index = function Index() {
       lineNumber: 3
     },
     __self: this
-  }, "SRR Magician"));
+  }, "SRR Magician"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "./about.js",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, "About"));
 };
+
+/* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ })
 
 })
-//# sourceMappingURL=index.js.4507bf86905751c48e11.hot-update.js.map
+//# sourceMappingURL=index.js.914dfe4e9517b1ce3236.hot-update.js.map
