@@ -5,7 +5,10 @@ const Index = () => (
         <h1>SRR Magician</h1>
         {/* <a href='/about'>About</a> */}
         <Link href='/about'>
-            <a>About</a>
+            <button>About</button>
+        </Link>
+        <Link href='/robots'>
+            <button>Robots</button>
         </Link>
     </div>
 );
